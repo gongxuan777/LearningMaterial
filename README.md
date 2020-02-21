@@ -1,2 +1,2 @@
 # LearningMaterial
-Some learning material of cloud computing
+Some learning material
